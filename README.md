@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Final year Computer Science and Engineering student deeply passionate about full-stack web development. Currently, I am enthusiastically exploring and mastering new techniques and technologies to leverage my knowledge effectively.
+I am a Final year Computer Science and Engineering student deeply passionate about full-stack web development and Deep Learning. Currently, I am enthusiastically exploring and mastering new techniques and technologies to leverage my knowledge effectively.
 
 
 ## 🌐 Socials:
